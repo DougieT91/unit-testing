@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 # Compiled class file
 *.class
 
@@ -18,6 +21,7 @@
 *.zip
 *.tar.gz
 *.rar
+<<<<<<< HEAD
 #IDEA folder
 .idea/
 #IDEA iml file
@@ -59,3 +63,8 @@ nbdist/
 .gitignore
 .idea/sonarlint/
 .idea/vcs.xml
+=======
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> origin/master
